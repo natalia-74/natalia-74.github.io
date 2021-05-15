@@ -1,0 +1,9 @@
+body{
+background-color:#FFF273;
+}
+.navbar-brand img{
+	width:20px;
+}
+.w-100{
+    height: 100px;
+    object-fit: cover;
